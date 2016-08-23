@@ -1,10 +1,10 @@
 {
-  "name": "angular2-adal",
-  "version": "0.1.4",
-  "description": "Use Azure AD Library - ADAL in Angular 2",
+  "name": "modular-angular2-adal",
+  "version": "0.1.0",
+  "description": "Use Azure AD Library - ADAL in Angular 2 - Modular version for webpack",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alenny/angular2-adal.git"
+    "url": "git+https://github.com/Confusedfish/modular-angular2-adal"
   },
   "keywords": [
     "angular2",
@@ -20,9 +20,9 @@
   "author": "Zhuyun Dai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alenny/angular2-adal/issues"
+    "url": "https://github.com/Confusedfish/modular-angular2-adal/issues"
   },
-  "homepage": "https://github.com/alenny/angular2-adal#readme",
+  "homepage": "https://github.com/Confusedfish/modular-angular2-adal#readme",
   "engines": {
     "node": ">=5.0.0"
   },
@@ -37,7 +37,7 @@
     "reflect-metadata": "^0.1.3",
     "rxjs": "5.0.0-beta.6",
     "zone.js": "^0.6.12",
-    "adal-angular": "1.0.10"
+    "modular-adal-angular": "0.3.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
